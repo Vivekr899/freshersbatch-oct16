@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <<<<<<< HEAD hi
+=======
+<<<<<<< HEAD  hello 
+>>>>>>> js-assignments
 hhdbdjbdb
 assqs
 hccfgc
